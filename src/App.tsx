@@ -5,7 +5,7 @@ import { Stars } from './components/stars/stars'
 
 function App() {
   // const [count, setCount] = useState(1)
-  let count = 0
+  let count = 4
 
   return (
     <>
